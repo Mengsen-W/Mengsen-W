@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mengsen Wang
 - 👀 I’m interested in coroutines, network forwarding surface
 - 🌱 I’m currently learning typescript
-- 💞️ I’m looking to collaborate on c/cpp rust
+- 💞️ I’m looking to collaborate on llm and bigdata
 - 📫 How to reach me ...
 
 <!---
